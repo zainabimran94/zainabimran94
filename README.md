@@ -1,6 +1,6 @@
 👋 Hi, I’m @zainabimran94
 
-👀 I’m interested in building interactive web apps, learning AI, trying databases and exploring new tech!
+👀 I’m interested in building interactive web apps, learning AI and exploring new tech!
 
 🌱 I’m currently learning full-stack development with Nuxt.js, Next.js, ASP.NET, Postgresql and AI integrations.
 
