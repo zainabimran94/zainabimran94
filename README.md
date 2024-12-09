@@ -11,7 +11,7 @@
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I love building fun and quirky projects to keep my learning process exciting! 
-I built a weather app where the train only moves in good weather 🌞, 
+I developed a 📚 children's storybook app that generates engaging stories based on the user's age group and selected theme, leveraging AI integration 🤖 to create personalized storytelling experiences,I built a weather app where the train only moves in good weather 🌞, 
 and a cafe app with a milkshake game 🥤 that challenged me to learn new things!
 
 
